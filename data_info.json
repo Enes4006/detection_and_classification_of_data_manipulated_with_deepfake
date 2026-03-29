@@ -1,0 +1,42 @@
+[
+  {
+    "video_name": "id0_0000.mp4",
+    "label": 0 
+  },
+  {
+    "video_name": "id0_0001.mp4",
+    "label": 0
+  },
+  {
+    "video_name": "id0_0002.mp4",
+    "label": 0
+  },
+  {
+    "video_name": "id0_0003.mp4",
+    "label": 0
+  },
+  {
+    "video_name": "id0_0004.mp4",
+    "label": 0
+  },
+  {
+    "video_name": "id0_id16_0000.mp4",
+    "label": 1
+  },
+  {
+    "video_name": "id0_id16_0001.mp4",
+    "label": 1
+  },
+  {
+    "video_name": "id0_id16_0002.mp4",
+    "label": 1
+  },
+  {
+    "video_name": "id0_id16_0003.mp4",
+    "label": 1
+  },
+  {
+    "video_name": "id0_id16_0004.mp4",
+    "label": 1
+  }
+]

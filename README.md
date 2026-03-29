@@ -112,8 +112,4 @@ This repository contains the **first phase** of a Deepfake detection system deve
   - Rotation  
   - Zoom  
 
----
 
-## 📬 Contact
-
-Feel free to connect or contribute!

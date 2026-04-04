@@ -8,6 +8,8 @@ This project focuses on detecting deepfake videos using deep learning techniques
 
 With the rapid advancement of AI-generated media, detecting manipulated videos has become a critical problem. This project aims to classify videos as **REAL or FAKE** using a CNN-based pipeline.
 
+This project represents an initial step toward building a robust deepfake detection system. While current results are limited, the architecture is scalable and ready for advanced enhancements.
+
 ---
 
 ## 🧠 Current Pipeline
@@ -80,11 +82,6 @@ This project is designed as a **baseline system**. Future improvements include:
   - DFDC
 - ⚡ Performance optimization & hyperparameter tuning
 
----
-
-## 📌 Conclusion
-
-This project represents an initial step toward building a robust deepfake detection system. While current results are limited, the architecture is scalable and ready for advanced enhancements.
 
 ---
 
@@ -113,9 +110,9 @@ This repository contains the **first phase** of a Deepfake detection system deve
   - Zoom  
 
 <img width="1310" height="317" alt="Ekran görüntüsü 2026-03-29 165839" src="https://github.com/user-attachments/assets/0cd0c2f9-37d3-481b-8090-277fdf912b78" />
-
+<br>
 <img width="869" height="580" alt="Ekran görüntüsü 2026-03-29 165800" src="https://github.com/user-attachments/assets/679d8a73-a67f-4b91-8adb-1023d1b3029c" />
-
+<br>
 <img width="1298" height="535" alt="Ekran görüntüsü 2026-03-29 160734" src="https://github.com/user-attachments/assets/b7ae3d9d-9061-4fb4-9063-e2f6a48fdfeb" />
 
 
